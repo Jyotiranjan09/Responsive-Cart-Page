@@ -1,1 +1,1 @@
-# Responsive-Cart-Page
+This is a responsive cart page.
